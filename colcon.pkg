@@ -1,0 +1,4 @@
+{
+  "name": "optoforce",
+  "dependencies": ["cisst", "sawOptoforceSensorAll"]
+}
